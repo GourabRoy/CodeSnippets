@@ -1,0 +1,44 @@
+2019-07-02T23:52:02.393-0530: Application time: 0.0857521 seconds
+2019-07-02T23:52:02.394-0530: [GC (Allocation Failure) 2019-07-02T23:52:02.394-0530: [ParNew: 12032K->1472K(13504K), 0.0231055 secs] 12032K->2996K(43584K), 0.0231519 secs] [Times: user=0.07 sys=0.01, real=0.02 secs] 
+2019-07-02T23:52:02.417-0530: Total time for which application threads were stopped: 0.0233620 seconds, Stopping threads took: 0.0000194 seconds
+2019-07-02T23:52:02.424-0530: Application time: 0.0069895 seconds
+2019-07-02T23:52:02.424-0530: [GC (Allocation Failure) 2019-07-02T23:52:02.424-0530: [ParNew: 13504K->1472K(13504K), 0.0409111 secs] 15028K->9225K(43584K), 0.0409550 secs] [Times: user=0.08 sys=0.01, real=0.04 secs] 
+2019-07-02T23:52:02.465-0530: Total time for which application threads were stopped: 0.0412216 seconds, Stopping threads took: 0.0000164 seconds
+2019-07-02T23:52:02.469-0530: Application time: 0.0037487 seconds
+2019-07-02T23:52:02.469-0530: [GC (Allocation Failure) 2019-07-02T23:52:02.469-0530: [ParNew: 13504K->1472K(13504K), 0.0402252 secs] 21257K->15485K(43584K), 0.0402694 secs] [Times: user=0.07 sys=0.00, real=0.04 secs] 
+2019-07-02T23:52:02.509-0530: Total time for which application threads were stopped: 0.0404020 seconds, Stopping threads took: 0.0000166 seconds
+2019-07-02T23:52:02.514-0530: Application time: 0.0049425 seconds
+2019-07-02T23:52:02.514-0530: [GC (Allocation Failure) 2019-07-02T23:52:02.514-0530: [ParNew: 13504K->1472K(13504K), 0.0311005 secs] 27517K->21778K(43584K), 0.0311484 secs] [Times: user=0.07 sys=0.01, real=0.03 secs] 
+2019-07-02T23:52:02.546-0530: Total time for which application threads were stopped: 0.0313138 seconds, Stopping threads took: 0.0000137 seconds
+2019-07-02T23:52:02.546-0530: Application time: 0.0001324 seconds
+2019-07-02T23:52:02.546-0530: [GC (CMS Initial Mark) [1 CMS-initial-mark: 20306K(30080K)] 22260K(43584K), 0.0020592 secs] [Times: user=0.01 sys=0.00, real=0.00 secs] 
+2019-07-02T23:52:02.548-0530: Total time for which application threads were stopped: 0.0021715 seconds, Stopping threads took: 0.0000557 seconds
+2019-07-02T23:52:02.548-0530: [CMS-concurrent-mark-start]
+2019-07-02T23:52:02.551-0530: Application time: 0.0033546 seconds
+2019-07-02T23:52:02.551-0530: [GC (Allocation Failure) 2019-07-02T23:52:02.551-0530: [ParNew: 13504K->1470K(13504K), 0.0384028 secs] 33810K->28041K(43584K), 0.0384355 secs] [Times: user=0.08 sys=0.00, real=0.04 secs] 
+2019-07-02T23:52:02.590-0530: Total time for which application threads were stopped: 0.0385652 seconds, Stopping threads took: 0.0000145 seconds
+2019-07-02T23:52:02.599-0530: Application time: 0.0088579 seconds
+2019-07-02T23:52:02.599-0530: [GC (Allocation Failure) 2019-07-02T23:52:02.599-0530: [ParNew: 13502K->13502K(13504K), 0.0000356 secs]2019-07-02T23:52:02.599-0530: [CMS2019-07-02T23:52:02.642-0530: [CMS-concurrent-mark: 0.055/0.094 secs] [Times: user=0.14 sys=0.00, real=0.10 secs] 
+ (concurrent mode failure): 26570K->30079K(30080K), 0.1584813 secs] 40073K->34229K(43584K), [Metaspace: 2651K->2651K(1056768K)], 0.1585821 secs] [Times: user=0.14 sys=0.01, real=0.16 secs] 
+2019-07-02T23:52:02.757-0530: Total time for which application threads were stopped: 0.1587400 seconds, Stopping threads took: 0.0000161 seconds
+2019-07-02T23:52:02.776-0530: Application time: 0.0190225 seconds
+2019-07-02T23:52:02.777-0530: [Full GC (Allocation Failure) 2019-07-02T23:52:02.777-0530: [CMS: 30079K->30079K(30080K), 0.1182649 secs] 43583K->39118K(43584K), [Metaspace: 2651K->2651K(1056768K)], 0.1183128 secs] [Times: user=0.12 sys=0.00, real=0.12 secs] 
+2019-07-02T23:52:02.895-0530: Total time for which application threads were stopped: 0.1184404 seconds, Stopping threads took: 0.0000142 seconds
+2019-07-02T23:52:02.895-0530: Application time: 0.0001517 seconds
+2019-07-02T23:52:02.895-0530: [GC (CMS Initial Mark) [1 CMS-initial-mark: 30079K(30080K)] 39340K(43584K), 0.0115437 secs] [Times: user=0.01 sys=0.00, real=0.01 secs] 
+2019-07-02T23:52:02.907-0530: Total time for which application threads were stopped: 0.0118166 seconds, Stopping threads took: 0.0001995 seconds
+2019-07-02T23:52:02.907-0530: [CMS-concurrent-mark-start]
+2019-07-02T23:52:02.924-0530: Application time: 0.0170322 seconds
+2019-07-02T23:52:02.924-0530: [Full GC (Allocation Failure) 2019-07-02T23:52:02.924-0530: [CMS2019-07-02T23:52:02.957-0530: [CMS-concurrent-mark: 0.050/0.050 secs] [Times: user=0.06 sys=0.00, real=0.05 secs] 
+ (concurrent mode failure): 30079K->283K(30080K), 0.0571783 secs] 43546K->283K(43584K), [Metaspace: 2651K->2651K(1056768K)], 0.0572397 secs] [Times: user=0.06 sys=0.00, real=0.06 secs] 
+2019-07-02T23:52:02.981-0530: Total time for which application threads were stopped: 0.0573654 seconds, Stopping threads took: 0.0000221 seconds
+Allocated all data.
+Heap
+ par new generation   total 13504K, used 630K [0x00000007bd400000, 0x00000007be2a0000, 0x00000007be2a0000)
+  eden space 12032K,   5% used [0x00000007bd400000, 0x00000007bd49da00, 0x00000007bdfc0000)
+  from space 1472K,   0% used [0x00000007be130000, 0x00000007be130000, 0x00000007be2a0000)
+  to   space 1472K,   0% used [0x00000007bdfc0000, 0x00000007bdfc0000, 0x00000007be130000)
+ concurrent mark-sweep generation total 30080K, used 283K [0x00000007be2a0000, 0x00000007c0000000, 0x00000007c0000000)
+ Metaspace       used 2659K, capacity 4486K, committed 4864K, reserved 1056768K
+  class space    used 289K, capacity 386K, committed 512K, reserved 1048576K
+2019-07-02T23:52:02.982-0530: Application time: 0.0009877 seconds

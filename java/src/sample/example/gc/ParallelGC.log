@@ -1,0 +1,45 @@
+2019-07-02T23:50:54.548-0530: Application time: 0.0864668 seconds
+2019-07-02T23:50:54.548-0530: [GC (Allocation Failure) [PSYoungGen: 11776K->1504K(13312K)] 11776K->2888K(43520K), 0.0107639 secs] [Times: user=0.02 sys=0.00, real=0.01 secs] 
+2019-07-02T23:50:54.559-0530: Total time for which application threads were stopped: 0.0110012 seconds, Stopping threads took: 0.0000155 seconds
+2019-07-02T23:50:54.567-0530: Application time: 0.0080082 seconds
+2019-07-02T23:50:54.567-0530: [GC (Allocation Failure) [PSYoungGen: 13280K->1520K(13312K)] 14664K->9072K(43520K), 0.0203691 secs] [Times: user=0.04 sys=0.01, real=0.02 secs] 
+2019-07-02T23:50:54.587-0530: Total time for which application threads were stopped: 0.0205266 seconds, Stopping threads took: 0.0000175 seconds
+2019-07-02T23:50:54.591-0530: Application time: 0.0035782 seconds
+2019-07-02T23:50:54.591-0530: [GC (Allocation Failure) [PSYoungGen: 13296K->1520K(13312K)] 20848K->15192K(43520K), 0.0244465 secs] [Times: user=0.03 sys=0.00, real=0.02 secs] 
+2019-07-02T23:50:54.616-0530: Total time for which application threads were stopped: 0.0246023 seconds, Stopping threads took: 0.0000183 seconds
+2019-07-02T23:50:54.622-0530: Application time: 0.0064575 seconds
+2019-07-02T23:50:54.622-0530: [GC (Allocation Failure) [PSYoungGen: 13296K->1520K(13312K)] 26968K->21376K(43520K), 0.0208201 secs] [Times: user=0.04 sys=0.01, real=0.02 secs] 
+2019-07-02T23:50:54.643-0530: Total time for which application threads were stopped: 0.0209950 seconds, Stopping threads took: 0.0000177 seconds
+2019-07-02T23:50:54.647-0530: Application time: 0.0035054 seconds
+2019-07-02T23:50:54.647-0530: [GC (Allocation Failure) [PSYoungGen: 13296K->1536K(13312K)] 33152K->27528K(43520K), 0.0156957 secs] [Times: user=0.03 sys=0.00, real=0.02 secs] 
+2019-07-02T23:50:54.662-0530: [Full GC (Ergonomics) [PSYoungGen: 1536K->0K(13312K)] [ParOldGen: 25992K->27350K(30208K)] 27528K->27350K(43520K), [Metaspace: 2651K->2651K(1056768K)], 0.4287904 secs] [Times: user=1.21 sys=0.01, real=0.43 secs] 
+2019-07-02T23:50:55.091-0530: Total time for which application threads were stopped: 0.4447010 seconds, Stopping threads took: 0.0000164 seconds
+2019-07-02T23:50:55.094-0530: Application time: 0.0031681 seconds
+2019-07-02T23:50:55.095-0530: [Full GC (Ergonomics) [PSYoungGen: 11776K->3436K(13312K)] [ParOldGen: 27350K->29992K(30208K)] 39126K->33428K(43520K), [Metaspace: 2651K->2651K(1056768K)], 0.1267550 secs] [Times: user=0.31 sys=0.01, real=0.13 secs] 
+2019-07-02T23:50:55.221-0530: Total time for which application threads were stopped: 0.1269412 seconds, Stopping threads took: 0.0000157 seconds
+2019-07-02T23:50:55.245-0530: Application time: 0.0231606 seconds
+2019-07-02T23:50:55.245-0530: [Full GC (Ergonomics) [PSYoungGen: 11776K->7737K(13312K)] [ParOldGen: 29992K->29992K(30208K)] 41768K->37729K(43520K), [Metaspace: 2651K->2651K(1056768K)], 0.1544922 secs] [Times: user=0.32 sys=0.00, real=0.15 secs] 
+2019-07-02T23:50:55.399-0530: Total time for which application threads were stopped: 0.1546669 seconds, Stopping threads took: 0.0000225 seconds
+2019-07-02T23:50:55.401-0530: Application time: 0.0014663 seconds
+2019-07-02T23:50:55.401-0530: [Full GC (Ergonomics) [PSYoungGen: 11776K->9866K(13312K)] [ParOldGen: 29992K->29992K(30208K)] 41768K->39858K(43520K), [Metaspace: 2651K->2651K(1056768K)], 0.1270544 secs] [Times: user=0.30 sys=0.01, real=0.12 secs] 
+2019-07-02T23:50:55.528-0530: Total time for which application threads were stopped: 0.1272251 seconds, Stopping threads took: 0.0000146 seconds
+2019-07-02T23:50:55.529-0530: Application time: 0.0011140 seconds
+2019-07-02T23:50:55.529-0530: [Full GC (Ergonomics) [PSYoungGen: 11776K->10869K(13312K)] [ParOldGen: 29992K->29992K(30208K)] 41768K->40861K(43520K), [Metaspace: 2651K->2651K(1056768K)], 0.1493293 secs] [Times: user=0.30 sys=0.00, real=0.15 secs] 
+2019-07-02T23:50:55.679-0530: Total time for which application threads were stopped: 0.1494960 seconds, Stopping threads took: 0.0000183 seconds
+2019-07-02T23:50:55.680-0530: Application time: 0.0011686 seconds
+2019-07-02T23:50:55.680-0530: [Full GC (Ergonomics) [PSYoungGen: 11776K->11431K(13312K)] [ParOldGen: 29992K->29992K(30208K)] 41768K->41423K(43520K), [Metaspace: 2651K->2651K(1056768K)], 0.1055417 secs] [Times: user=0.31 sys=0.01, real=0.10 secs] 
+2019-07-02T23:50:55.785-0530: Total time for which application threads were stopped: 0.1057140 seconds, Stopping threads took: 0.0000344 seconds
+2019-07-02T23:50:55.786-0530: Application time: 0.0010397 seconds
+2019-07-02T23:50:55.787-0530: [Full GC (Ergonomics) [PSYoungGen: 11776K->11502K(13312K)] [ParOldGen: 29992K->29992K(30208K)] 41768K->41494K(43520K), [Metaspace: 2651K->2651K(1056768K)], 0.1041065 secs] [Times: user=0.31 sys=0.00, real=0.11 secs] 
+2019-07-02T23:50:55.891-0530: Total time for which application threads were stopped: 0.1042523 seconds, Stopping threads took: 0.0000157 seconds
+Allocated all data.
+Heap
+ PSYoungGen      total 13312K, used 11776K [0x00000007bf180000, 0x00000007c0000000, 0x00000007c0000000)
+  eden space 11776K, 100% used [0x00000007bf180000,0x00000007bfd00000,0x00000007bfd00000)
+  from space 1536K, 0% used [0x00000007bfd00000,0x00000007bfd00000,0x00000007bfe80000)
+  to   space 1536K, 0% used [0x00000007bfe80000,0x00000007bfe80000,0x00000007c0000000)
+ ParOldGen       total 30208K, used 29992K [0x00000007bd400000, 0x00000007bf180000, 0x00000007bf180000)
+  object space 30208K, 99% used [0x00000007bd400000,0x00000007bf14a0d8,0x00000007bf180000)
+ Metaspace       used 2658K, capacity 4486K, committed 4864K, reserved 1056768K
+  class space    used 289K, capacity 386K, committed 512K, reserved 1048576K
+2019-07-02T23:50:55.892-0530: Application time: 0.0016787 seconds
