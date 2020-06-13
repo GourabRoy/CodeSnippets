@@ -21,7 +21,7 @@ public class Launcher {
     public CommandLineRunner commandLineRunner(ApplicationContext ctx) {
         return args -> {
 
-        };
+        }; 
     }
 
 }
